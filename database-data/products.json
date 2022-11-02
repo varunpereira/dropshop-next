@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "61b45c8da50f0263dc32d3cd"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/irfwxjz56x4xa6pdwoks",
+      "url": "https://res.cloudinary.com/demo/image/upload/sheep.jpg"
+    }
+  ],
+  "sold": 4,
+  "title": "farm",
+  "price": 50000,
+  "description": "Not a scam!",
+  "category": "test",
+  "updatedAt": {
+    "$date": "2022-02-17T22:53:42.202Z"
+  },
+  "stock": 5,
+  "email": "2@2.com"
+},{
+  "_id": {
+    "$oid": "61b45c8da50f0263dc32d3ce"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/jdi9qo0oiinwik8uxzxn",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605278590/nextjs_media/jdi9qo0oiinwik8uxzxn.jpg"
+    },
+    {
+      "public_id": "nextjs_media/k2pjwtpzolcieioacnu2",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605278591/nextjs_media/k2pjwtpzolcieioacnu2.jpg"
+    },
+    {
+      "public_id": "nextjs_media/qbh6auephsy5leaapsu1",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605278592/nextjs_media/qbh6auephsy5leaapsu1.jpg"
+    },
+    {
+      "public_id": "nextjs_media/gnsgrxorl5utlnxygjn6",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605278594/nextjs_media/gnsgrxorl5utlnxygjn6.jpg"
+    },
+    {
+      "public_id": "nextjs_media/w8qj2rlrhh1es8wxhcui",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605278596/nextjs_media/w8qj2rlrhh1es8wxhcui.jpg"
+    }
+  ],
+  "sold": 17,
+  "title": "wedding cards",
+  "price": 10,
+  "description": "Stylish wedding cards for a great price.",
+  "category": "5faa35b58fdff228384d51da",
+  "updatedAt": {
+    "$date": "2022-03-17T06:07:59.866Z"
+  },
+  "stock": 293,
+  "email": "1@1.com"
+},{
+  "_id": {
+    "$oid": "61b45c8da50f0263dc32d3cf"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/u8qltexka25minj2rj46",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605318879/nextjs_media/u8qltexka25minj2rj46.jpg"
+    },
+    {
+      "public_id": "nextjs_media/wb5osprab71emsxp3ibm",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605318910/nextjs_media/wb5osprab71emsxp3ibm.jpg"
+    },
+    {
+      "public_id": "nextjs_media/nelvbtwdbk1vjvhufort",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605318911/nextjs_media/nelvbtwdbk1vjvhufort.jpg"
+    },
+    {
+      "public_id": "nextjs_media/bnyeto9vaz40yfts92we",
+      "url": "https://res.cloudinary.com/devatchannel/image/upload/v1605318913/nextjs_media/bnyeto9vaz40yfts92we.jpg"
+    }
+  ],
+  "sold": 376,
+  "title": "laptop macbook pro 17 inch",
+  "price": 1000,
+  "description": "Voted best laptop for students for 3rd year in a row!",
+  "category": "5faa35a88fdff228384d51d8",
+  "updatedAt": {
+    "$date": "2022-03-16T03:43:42.755Z"
+  },
+  "stock": 297,
+  "email": "1@1.com"
+},{
+  "_id": {
+    "$oid": "622ab1cd04ceb680174d2b3d"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/u8qltexka25minj2rj46",
+      "url": "https://res.cloudinary.com/demo/image/upload/sample.gif"
+    }
+  ],
+  "sold": 77,
+  "title": "flowers",
+  "price": 12,
+  "description": "Highest quality flowers from my garden.",
+  "category": "5faa35a88fdff228384d51d8",
+  "updatedAt": {
+    "$date": "2022-03-16T02:30:21.517Z"
+  },
+  "stock": 296,
+  "email": "1@1.com"
+},{
+  "_id": {
+    "$oid": "622ab58f04ceb680174d2b3e"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/u8qltexka25minj2rj46",
+      "url": "https://res.cloudinary.com/demo/image/fetch/c_scale,h_400/f_jpg/https://upload.wikimedia.org/wikipedia/commons/1/13/Benedict_Cumberbatch_2011.png"
+    }
+  ],
+  "sold": 242,
+  "title": "suit",
+  "price": 200,
+  "description": "Great suit for all occasions.",
+  "category": "5faa35a88fdff228384d51d8",
+  "updatedAt": {
+    "$date": "2022-03-17T06:27:03.289Z"
+  },
+  "stock": 1150,
+  "email": "1@1.com"
+},{
+  "_id": {
+    "$oid": "623164ffc4b93b109d044dcd"
+  },
+  "images": [
+    {
+      "public_id": "nextjs_media/u8qltexka25minj2rj46",
+      "url": "https://www.gstatic.com/webp/gallery/1.jpg"
+    }
+  ],
+  "sold": 243,
+  "title": "europe holiday tickets",
+  "price": 200,
+  "description": "Buy these tickets for a chance to win a $10,000 all paid holiday to Europe!",
+  "category": "5faa35a88fdff228384d51d8",
+  "updatedAt": {
+    "$date": "2022-03-17T07:16:00.864Z"
+  },
+  "stock": 1149,
+  "email": "2@2.com"
+}]

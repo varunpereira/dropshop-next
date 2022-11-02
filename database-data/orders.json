@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "623144edf79ca3aeb1fc8fef"
+  },
+  "email": "1@1.com",
+  "current": false,
+  "products": [
+    {
+      "productId": "622ab1cd04ceb680174d2b3d",
+      "productQuantity": 2,
+      "productTitle": "flowers",
+      "productPrice": 12
+    }
+  ],
+  "price": 24,
+  "quantity": 2,
+  "checkoutSessionId": "cs_test_a17VSewLNS89KDrINOxOqAnE7vmN5MVHnU2XED6ZMUTPrUuKdEHFnoRxOl",
+  "refunded": true,
+  "createdAt": {
+    "$date": "2022-03-16T02:01:17.884Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T02:31:08.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62314becfa2ae2f6b12a32c9"
+  },
+  "email": "1@1.com",
+  "current": false,
+  "products": [
+    {
+      "productId": "61b45c8da50f0263dc32d3cf",
+      "productQuantity": 1,
+      "productTitle": "laptop macbook pro 17 inch",
+      "productPrice": 1000
+    }
+  ],
+  "price": 1000,
+  "quantity": 1,
+  "checkoutSessionId": "cs_test_a1HNyMmyClsv23HYAZC06DxSiYkHGs2FuIk7b2xQQEMMtcMLALiHbZPN53",
+  "refunded": true,
+  "createdAt": {
+    "$date": "2022-03-16T02:31:08.724Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T03:45:23.879Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62315d36c4b5b58df03fa644"
+  },
+  "email": "1@1.com",
+  "current": true,
+  "products": [],
+  "price": 0,
+  "quantity": 0,
+  "checkoutSessionId": "nothing",
+  "refunded": false,
+  "createdAt": {
+    "$date": "2022-03-16T03:44:54.921Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-17T06:07:59.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62327260d2d32986acd83caf"
+  },
+  "email": "2@2.com",
+  "current": false,
+  "products": [
+    {
+      "productId": "623164ffc4b93b109d044dcd",
+      "productQuantity": 1,
+      "productTitle": "europe holiday tickets",
+      "productPrice": 200
+    }
+  ],
+  "price": 200,
+  "quantity": 1,
+  "checkoutSessionId": "cs_test_a16wzre3IjUkyjQQvJHB17xB79Dy5bHQ7HcfYg1Gj25KG6G50SOp65SDpU",
+  "refunded": true,
+  "createdAt": {
+    "$date": "2022-03-16T23:27:28.725Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-17T07:17:49.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6232e077317994aa8e212138"
+  },
+  "email": "2@2.com",
+  "current": true,
+  "products": [],
+  "price": 0,
+  "quantity": 0,
+  "checkoutSessionId": "nothing",
+  "refunded": false,
+  "createdAt": {
+    "$date": "2022-03-17T07:17:11.565Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-17T07:17:11.565Z"
+  },
+  "__v": 0
+}]
